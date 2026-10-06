@@ -1,425 +1,904 @@
-🚀 2027 AIML Engineer Journey
+# 🚀 2027 AIML Engineer Journey
 
-«365 Days. 365 Days of Progress. One Engineering Journey.»
+> **2026 Foundation → 2027 Growth → Internship → Strong AIML Career**
 
-This repository is my personal record of learning, building, experimenting, competing, and improving throughout 2027.
+This repository is my long-term engineering journey.
 
-The goal is not to make random GitHub commits just to keep the contribution graph green.
+I am using this repository to track what I **learn, practice, build, debug, document, and improve** throughout my journey as an AIML student.
 
-The goal is:
+The purpose of this repository is **not to create random GitHub commits just to make the contribution graph green**.
 
-Learn → Practice → Build → Document → Improve → Repeat
-
-Every meaningful commit should represent real progress.
+The purpose is to create **real evidence of technical growth**.
 
 ---
 
-🎯 2027 Mission
+# 🎯 Mission
 
-My mission for 2027 is to become a much stronger:
+My immediate goal is to become genuinely internship-ready by **January 14, 2027**.
 
-- Programmer
-- Problem Solver
-- AI/ML Engineer
-- Project Builder
-- Hackathon Participant
-- Open-Source Contributor
-- Internship Candidate
+My long-term goal is to continue building strong skills throughout 2027 and beyond.
 
-By the end of 2027, this repository should show clear evidence of that progress.
+The journey follows:
 
----
-
-📊 2027 Progress Dashboard
-
-Category| Target| Completed
-Days of Progress| 365| 0
-DSA Problems| 500+| 0
-Python Programs| 200+| 0
-ML Experiments| 50+| 0
-GenAI Experiments| 50+| 0
-Projects| 10+| 0
-Serious Projects| 5+| 0
-Hackathons| 5+| 0
-Open-Source Contributions| 10+| 0
-Internship Applications| 100+| 0
-Technical Articles/Notes| 50+| 0
-
-«These numbers are targets, not excuses to create low-quality work.»
-
----
-
-🧠 Core Rule
-
-Every Day = One Real Improvement
-
-A daily contribution can be anything meaningful:
-
-- Solve a DSA problem
-- Learn and implement a concept
-- Build a feature
-- Fix a bug
-- Improve an existing project
-- Run an AI/ML experiment
-- Read and document a technical concept
-- Contribute to open source
-- Participate in a hackathon
-- Improve documentation
-- Benchmark or evaluate a model
-- Refactor code
-- Learn a new tool
-
-What does NOT count?
-
-Random commits such as:
-
-update
-update2
-fixed
-test
-small changes
-README changed just for streak
-
-The purpose of this repository is growth, not green squares.
+```text
+Learn
+  ↓
+Understand
+  ↓
+Code
+  ↓
+Solve Problems
+  ↓
+Build
+  ↓
+Debug
+  ↓
+Document
+  ↓
+Commit
+  ↓
+Explain
+  ↓
+Improve
+  ↓
+Repeat
+```
 
 ---
 
-🗂️ Repository Structure
+# 🗓️ Journey Timeline
 
-01-Python/
-    Programming fundamentals and Python development
+## Phase 1 — Internship Readiness
 
-02-DSA/
-    Data structures, algorithms, problem solving
+**October 6, 2026 → January 14, 2027**
 
-03-Machine-Learning/
-    ML concepts, implementations, experiments and projects
+The detailed roadmap for this phase is available here:
 
-04-Deep-Learning/
-    Neural networks, CNNs, RNNs, Transformers and projects
+[`00-Roadmap/AIML-Internship-Readiness-Roadmap-Oct6-2026-to-Jan14-2027.md`](00-Roadmap/AIML-Internship-Readiness-Roadmap-Oct6-2026-to-Jan14-2027.md)
 
-05-Generative-AI/
-    LLMs, prompting, embeddings, RAG, vector databases and AI agents
+Target outcome:
 
-06-Projects/
-    Major projects built during the year
-
-07-Hackathons/
-    Hackathon participation, ideas, submissions and results
-
-08-Open-Source/
-    Open-source contributions and community work
-
-09-Internships/
-    Internship preparation, applications and interview preparation
-
-10-Experiments/
-    Small technical experiments and prototypes
-
-11-Notes/
-    Important technical knowledge, lessons and mistakes
-
-12-Daily-Log/
-    Daily progress journal
-
-13-Progress/
-    Monthly, quarterly and yearly reviews
+* Python foundation
+* DSA/problem solving
+* SQL
+* Git/GitHub
+* Web + Backend
+* Data + Machine Learning
+* GenAI application basics
+* Basic CS fundamentals
+* Linux basics
+* Testing basics
+* 4 portfolio projects
+* Professional GitHub
+* Resume and interview preparation
+* Internship application readiness
 
 ---
 
-📅 Daily Progress System
+# 🚀 Phase 2 — 2027 Engineering Growth
 
-Every day I will try to record:
+From **January 1, 2027 onward**, the same repository continues.
 
-Date:
-Day:
+The focus gradually shifts from:
 
-What I learned:
-What I built:
-What I solved:
-What I struggled with:
-What I improved:
-What I will do next:
+```text
+Learning Fundamentals
+        ↓
+Building Projects
+        ↓
+Advanced Problem Solving
+        ↓
+Serious AI/ML Systems
+        ↓
+Hackathons
+        ↓
+Open Source
+        ↓
+Internships
+        ↓
+Research / Specialization
+```
+
+2027 is not a completely new beginning.
+
+It is the continuation of everything built during the internship-readiness phase.
+
+---
+
+# 🧠 Core Skill Stack
+
+## 1. Python
+
+Focus areas:
+
+* Programming fundamentals
+* Data types
+* Conditions
+* Loops
+* Strings
+* Lists
+* Tuples
+* Sets
+* Dictionaries
+* Functions
+* Scope
+* Modules and imports
+* File handling
+* Exceptions
+* Debugging
+* OOP
+* Virtual environments
+* pip and package management
+
+---
+
+## 2. DSA & Problem Solving
+
+Focus areas:
+
+* Big-O
+* Arrays
+* Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Stack
+* Queue
+* Linked List
+* Recursion
+* Binary Search
+* Sorting
+* Trees
+* BST
+* Heap / Priority Queue
+* Graphs
+* BFS / DFS
+* Greedy
+* Dynamic Programming basics
+
+The goal is not simply to collect solved problems.
+
+The goal is to understand:
+
+```text
+Problem
+  ↓
+Approach
+  ↓
+Algorithm
+  ↓
+Complexity
+  ↓
+Implementation
+  ↓
+Explanation
+```
+
+---
+
+## 3. SQL
+
+Focus areas:
+
+* SELECT
+* WHERE
+* ORDER BY
+* LIMIT
+* Aggregate functions
+* GROUP BY
+* HAVING
+* CASE
+* JOINs
+* Subqueries
+* CTEs
+* Window functions
+* Primary keys
+* Foreign keys
+* Relationships
+* Normalization basics
+* Index basics
+
+---
+
+## 4. Git & GitHub
+
+Focus areas:
+
+* Repository
+* Clone
+* Add
+* Commit
+* Push
+* Pull
+* Branches
+* Merge
+* .gitignore
+* README
+* Issues
+* Pull Requests
+* Clean project history
+
+---
+
+## 5. Web & Backend
+
+Focus areas:
+
+* Client/server
+* Browser
+* HTTP
+* Request/response
+* Headers
+* Body
+* Status codes
+* GET
+* POST
+* PUT
+* PATCH
+* DELETE
+* JSON
+* REST
+* FastAPI
+* Routes
+* Query parameters
+* Path parameters
+* Request bodies
+* Pydantic
+* CRUD
+* PostgreSQL connection
+* Authentication concepts
+* Error handling
+* Postman/API testing
+
+---
+
+## 6. Data & Machine Learning
+
+Focus areas:
+
+* NumPy
+* Pandas
+* Data cleaning
+* EDA
+* Matplotlib
+* Statistics basics
+* Probability basics
+* Correlation
+* Supervised learning
+* Unsupervised learning
+* Train/test split
+* Regression
+* Classification
+* Clustering
+* Preprocessing
+* Scaling
+* Encoding
+* Evaluation metrics
+* Cross-validation
+* scikit-learn
+
+---
+
+## 7. Generative AI
+
+Focus areas:
+
+* LLM basics
+* Prompting
+* API usage
+* Structured output
+* Tokens/context intuition
+* Embeddings
+* Vector search
+* RAG
+* Simple LLM integration in Python
+
+Later these can expand into:
+
+* AI agents
+* Tool calling
+* Evaluation
+* Advanced RAG
+* AI system design
+
+---
+
+## 8. Computer Science Fundamentals
+
+Focus areas:
+
+* OOP
+* DBMS
+* Processes vs threads
+* Memory basics
+* IP
+* DNS
+* HTTP/HTTPS
+* TCP/UDP basics
+
+---
+
+## 9. Linux
+
+Focus areas:
+
+* Terminal
+* Navigation
+* Files/folders
+* Environment variables
+* Running programs
+
+---
+
+## 10. Testing
+
+Focus areas:
+
+* Assertions
+* Debugging
+* pytest basics
+* API testing
+* Edge cases
+* Failure handling
+
+---
+
+# 💻 Portfolio Projects
+
+The repository will contain four major internship-focused projects.
+
+## Project 0 — GitHub Foundation
+
+Purpose:
+
+Build a clean professional GitHub presence.
+
+Includes:
+
+* Repository organization
+* README quality
+* .gitignore
+* Meaningful commits
+* Project descriptions
+* Profile cleanup
+
+---
+
+## Project 1 — Smart File / Log Analyzer
+
+A Python application that:
+
+* Reads files
+* Searches patterns
+* Counts events
+* Generates reports
+* Handles invalid input
+* Uses appropriate data structures
+* Uses functions
+* Uses OOP where useful
+
+Skills demonstrated:
+
+**Python + Problem Solving + File Handling + Exceptions + Complexity Thinking**
+
+---
+
+## Project 2 — E-commerce / Business Analytics
+
+Use a realistic dataset to answer questions such as:
+
+* Top products
+* Revenue by month
+* Customer behavior
+* Average order value
+* Regional performance
+* Repeat customers
+
+Technology:
+
+**SQL + Python + Pandas + Data Visualization**
+
+---
+
+## Project 3 — End-to-End Machine Learning Project
 
 Example:
 
-Day 001
+**Customer Churn Prediction**
 
-What I learned:
-Python functions and parameters.
+Pipeline:
 
-What I built:
-Created 5 small function-based programs.
-
-What I struggled with:
-Understanding return values.
-
-What I improved:
-Function decomposition.
-
-Next:
-Practice more function problems.
+```text
+Dataset
+   ↓
+Cleaning
+   ↓
+EDA
+   ↓
+Preprocessing
+   ↓
+Training
+   ↓
+Evaluation
+   ↓
+Model Comparison
+   ↓
+Explanation
+   ↓
+Optional API
+```
 
 ---
 
-🧩 Learning Philosophy
+## Project 4 — Main Capstone
 
-I will not focus only on consuming courses and tutorials.
+### Internship / Job Description Analyzer
 
-My learning loop:
+Input:
 
-CONCEPT
-   ↓
-UNDERSTAND
-   ↓
-IMPLEMENT
-   ↓
-SOLVE PROBLEMS
-   ↓
-BUILD
-   ↓
-MAKE MISTAKES
-   ↓
-DEBUG
-   ↓
-DOCUMENT
-   ↓
-IMPROVE
+An internship or job description.
 
----
+Extract:
 
-💻 DSA Goal
+* Role
+* Required skills
+* Preferred skills
+* Tools
+* Experience
+* Eligibility
 
-I want to become strong at problem solving rather than simply collecting solved questions.
+Then compare job requirements with a user's skill profile.
 
-For important problems, I will try to record:
+Output:
 
-Problem
-Approach
-Brute Force
-Optimized Approach
-Time Complexity
-Space Complexity
-Key Insight
-Implementation
-Mistakes
+* Match score
+* Strong skills
+* Missing skills
+* Recommended learning areas
+* Role category
 
----
+Suggested stack:
 
-🤖 AI/ML Goal
-
-I want to go beyond simply using AI tools.
-
-I want to understand:
-
-Programming
-    ↓
-Data Structures & Algorithms
-    ↓
-Mathematics
-    ↓
-Machine Learning
-    ↓
-Deep Learning
-    ↓
-Generative AI
-    ↓
-AI Agents
-    ↓
-Real-World AI Systems
-
-Whenever possible, I will implement concepts rather than only reading about them.
-
----
-
-🚀 Project Philosophy
-
-Projects should gradually become more difficult.
-
-Level 1 — Fundamentals
-
-Small programs and simple applications.
-
-Level 2 — Practical Applications
-
-Projects involving APIs, data, automation and real-world workflows.
-
-Level 3 — AI/ML Projects
-
-Machine learning, deep learning and GenAI applications.
-
-Level 4 — Serious Projects
-
-Larger systems designed to solve real problems.
-
-Level 5 — Flagship Projects
-
-Projects strong enough to become major portfolio pieces.
-
----
-
-🏆 Hackathon Philosophy
-
-Hackathons are not only competitions.
-
-They are opportunities to practice:
-
-- Fast learning
-- Teamwork
-- Product thinking
-- Problem solving
-- Building under pressure
-- Presenting technical work
-
-Every hackathon entry should be documented properly.
-
----
-
-🌍 Open Source
-
-I want to gradually move from:
-
-Learning alone
-      ↓
-Building alone
-      ↓
-Contributing to existing projects
-      ↓
-Collaborating with developers
-      ↓
-Becoming a useful open-source contributor
-
----
-
-💼 Internship Preparation
-
-This repository will also track internship preparation.
-
-Possible areas:
-
-DSA
-Core CS
+```text
 Python
-AI/ML
-Projects
-Git/GitHub
-Resume
-Interview Preparation
-Applications
-Hackathons
-Open Source
+FastAPI
+SQL / PostgreSQL
+LLM API
+Simple interface
+```
 
-The objective is not simply to apply to many internships.
+Later this can be expanded with:
 
-The objective is to become increasingly qualified for better opportunities.
-
----
-
-📈 Monthly Review
-
-At the end of every month, I will review:
-
-Technical Growth
-
-What skills did I improve?
-
-Projects
-
-What did I build?
-
-Problem Solving
-
-How many meaningful problems did I solve?
-
-AI/ML
-
-What concepts or systems did I understand?
-
-Career
-
-What did I do for internships, hackathons or open source?
-
-Mistakes
-
-What did I do poorly?
-
-Next Month
-
-What should I improve?
+```text
+Embeddings
+Semantic Search
+RAG
+```
 
 ---
 
-📊 Quarterly Review
+# 📅 Daily System
 
-Every 3 months I will ask:
+Every normal study day follows this structure:
 
-1. Am I actually improving?
-2. Which skills are becoming strong?
-3. Which skills are still weak?
-4. Am I building enough?
-5. Am I solving enough problems?
-6. Am I moving toward my internship goals?
-7. What should I stop doing?
-8. What should I start doing?
-9. What should I do more of?
+### 1. Learn
+
+Understand the day's concept.
+
+### 2. Code
+
+Write examples yourself.
+
+### 3. DSA
+
+Solve 1–3 problems or practice the current DSA concept.
+
+### 4. Project / GitHub
+
+Build something, improve something, debug something, or document something.
+
+### 5. Recall
+
+Without looking at notes:
+
+* What did I learn?
+* Why is it useful?
+* Can I explain it?
+
+### 6. Commit
+
+Make a meaningful Git commit.
 
 ---
 
-🔥 2027 Streak Philosophy
-
-The goal is:
-
-365 days of consistency
-
-But consistency does NOT mean:
-
-«"I must make a useless commit every single day."»
-
-Consistency means:
-
-«"I must continue moving forward every day."»
-
-Quality comes before the contribution graph.
-
----
-
-📝 Important Lessons
-
-This section will contain lessons that I do not want to forget.
+# ✅ What Counts as a Meaningful Contribution?
 
 Examples:
 
-- Programming concepts that finally clicked
-- Mistakes I repeatedly made
-- Important debugging lessons
-- Career lessons
-- Project lessons
-- AI/ML lessons
-- Interview lessons
-- Hackathon lessons
+```text
+Solved a DSA problem
+
+Implemented a Python concept
+
+Built a feature
+
+Fixed a bug
+
+Improved a project
+
+Ran an ML experiment
+
+Learned and documented a technical concept
+
+Added tests
+
+Improved API functionality
+
+Refactored code
+
+Made an open-source contribution
+
+Improved documentation
+```
 
 ---
 
-🧭 Final Goal
+# ❌ What Does NOT Count?
 
-By December 31, 2027, I want this repository to answer one question clearly:
+Avoid fake productivity such as:
 
-«"What did I become capable of building and solving during 2027?"»
+```text
+update
 
-The answer should be visible through the code, projects, experiments, problems solved, contributions and lessons stored here.
+update2
+
+test
+
+random README change
+
+adding meaningless files
+
+changing whitespace only for a commit
+```
+
+The goal is:
+
+> **Growth first. Green squares second.**
 
 ---
 
-📅 Start
+# 🤖 AI Usage Rule
 
-Start Date: January 1, 2027
+AI tools are allowed.
 
-End Date: December 31, 2027
+AI may accelerate implementation.
 
-Duration: 365 Days
+AI must not replace understanding.
+
+For important AI-generated code:
+
+```text
+Read
+ ↓
+Explain
+ ↓
+Run
+ ↓
+Modify
+ ↓
+Break intentionally
+ ↓
+Debug
+ ↓
+Understand
+ ↓
+Commit
+```
+
+The goal is:
+
+> **“I understand and can modify the code.”**
+
+Not:
+
+> **“AI generated hundreds of lines.”**
 
 ---
 
-🔥 The Rule for 2027
+# 📊 Progress Tracking
 
-«Don't chase the green squares. Chase the growth that creates them.»
+Progress will be measured through capability rather than content consumption.
+
+### Python
+
+Can I write a small program without asking AI for every line?
+
+### DSA
+
+Can I explain an approach and its complexity before coding?
+
+### SQL
+
+Can I solve queries on an unfamiliar dataset?
+
+### Git
+
+Can I manage a project properly using Git/GitHub?
+
+### Backend
+
+Can I explain:
+
+```text
+Client
+ ↓
+HTTP Request
+ ↓
+FastAPI
+ ↓
+Database
+ ↓
+Response
+```
+
+### ML
+
+Can I explain why I selected a model and evaluation metric?
+
+### GenAI
+
+Can I explain:
+
+```text
+Prompt
+ ↓
+Model
+ ↓
+Output
+```
+
+and the basic purpose of embeddings and RAG?
+
+### Projects
+
+Can I explain the important decisions and code in every project?
+
+---
+
+# 📝 Daily Logs
+
+Every day will have a progress log inside:
+
+```text
+16-Daily-Log/
+```
+
+Each log should record:
+
+* Today's goal
+* What I learned
+* What I practiced
+* DSA problems
+* What I built
+* Mistakes
+* Improvements
+* Evidence/files created
+* Tomorrow's target
+
+---
+
+# 📈 Monthly Reviews
+
+At the end of every month:
+
+* Skills improved
+* Projects completed
+* DSA problems solved
+* AI/ML progress
+* Hackathons
+* Open-source activity
+* Internship activity
+* Biggest mistakes
+* Biggest lessons
+* Next month's priorities
+
+---
+
+# 🔥 Workload Rules
+
+Target:
+
+**~14–15 focused hours/week**
+
+Normal college day:
+
+```text
+30–40 min DSA
+60–75 min main skill
+15–30 min project/GitHub
+```
+
+Saturday:
+
+```text
+DSA
+Main skill
+Project
+```
+
+Sunday:
+
+```text
+Revision
+Project
+Weekly review
+```
+
+During heavy college periods:
+
+```text
+Reduce workload.
+Maintain the streak.
+Do not abandon the roadmap.
+```
+
+During exam periods:
+
+```text
+Maintain DSA
+Revise existing skills
+No major new technology
+No major new project
+```
+
+College academics and health come first.
+
+---
+
+# 🏆 Hackathons
+
+Hackathons will be tracked separately.
+
+Focus:
+
+* Building under time pressure
+* Problem solving
+* Teamwork
+* Product thinking
+* Presentation
+* Fast learning
+
+---
+
+# 🌍 Open Source
+
+The long-term progression is:
+
+```text
+Learn alone
+   ↓
+Build alone
+   ↓
+Read existing projects
+   ↓
+Fix small issues
+   ↓
+Submit pull requests
+   ↓
+Collaborate
+   ↓
+Become a useful contributor
+```
+
+---
+
+# 💼 Internship Tracking
+
+Internship activity will be recorded in:
+
+```text
+13-Internships/
+```
+
+Role families include:
+
+### Software / Backend
+
+* Software Development Intern
+* SDE Intern
+* Python Developer Intern
+* Backend Developer Intern
+
+### AI / ML
+
+* AI/ML Intern
+* Machine Learning Intern
+* GenAI Intern
+* AI Engineer Intern
+
+### Data
+
+* Data Analyst Intern
+* Data Science Intern
+* Data/ML Intern
+
+### Automation
+
+* Python Automation Intern
+* AI Automation Intern
+
+Applications will use role-specific resumes rather than one generic resume for everything.
+
+---
+
+# 🚀 Long-Term 2027 Direction
+
+After the first internship-readiness phase, the learning priority becomes:
+
+```text
+DSA depth
+   ↓
+Stronger Python
+   ↓
+Backend Engineering
+   ↓
+ML depth
+   ↓
+GenAI systems
+   ↓
+Docker
+   ↓
+Cloud
+   ↓
+Frontend/React when useful
+   ↓
+Stronger CS fundamentals
+   ↓
+Role-specific specialization
+```
+
+The long-term strategy is to compound:
+
+**Projects + Internships + Hackathons + Open Source + Technical Depth**
+
+throughout college.
+
+---
+
+# 📌 Core Principle
+
+> **Do not chase the green squares. Chase the growth that creates them.**
+
+Every commit should tell a small part of the story.
+
+Every month should show measurable improvement.
+
+Every project should demonstrate actual ability.
+
+Every year should leave me significantly stronger than the previous one.
+
+---
+
+# 🔥 Final Goal
+
+By the end of the internship-readiness phase, I should have:
+
+* Python foundation
+* DSA foundation
+* Practical SQL
+* Git/GitHub skills
+* Backend/API understanding
+* Data/ML foundation
+* GenAI application basics
+* Basic CS fundamentals
+* Linux basics
+* Testing basics
+* 4 portfolio projects
+* Professional GitHub
+* Resume
+* Interview preparation
+* Internship application readiness
+
+Then 2027 continues from there.
+
+> **Learn. Build. Document. Ship. Improve. Repeat.**
