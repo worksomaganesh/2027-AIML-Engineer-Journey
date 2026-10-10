@@ -1,6 +1,6 @@
 # 202X — My AI/ML Engineering Journey
 
-A public record of my journey as a first-year B.Tech Artificial Intelligence and Machine Learning student — learning fundamentals, building real projects, exploring opportunities, and documenting progress honestly.
+A public record of my journey as a first-year B.Tech Artificial Intelligence and Machine Learning student — learning fundamentals, building real projects, exploring opportunities, and documenting progress honestly. 
 
 ## 🎯 Mission
 
